@@ -31,9 +31,10 @@ img {
   margin: 0 auto;
 }
 
-.images-container img {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 12px;
+.images-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px 0;
 }
