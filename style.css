@@ -2,9 +2,6 @@ body{
   background-color: #9ACD32;
   font-family: Pacifico;
 }
-img {
-  width: 300px;
-}
 
 
 
@@ -26,10 +23,6 @@ font-size:18px;
 text-align:center;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
-}
 
 .images-container {
   display: flex;
