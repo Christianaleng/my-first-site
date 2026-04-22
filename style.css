@@ -36,4 +36,5 @@ img {
   justify-content: center;
   gap: 20px;
   flex-wrap: wrap;
+  width: 180px;
 }
